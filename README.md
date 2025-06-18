@@ -30,4 +30,12 @@ No manual version checks — just run and Go! 💨
 ```bash
 git clone https://github.com/Kartikhunter/Go-Language-Install-Script.git
 cd Go-Language-Install-Script
+```
+▶️ Run the Script
+```bash
+chmod +x Go.sh
+./Go.sh
+```
+📸 Preview
+
 
