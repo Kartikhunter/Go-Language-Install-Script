@@ -36,7 +36,8 @@ cd Go-Language-Install-Script
 chmod +x Go.sh
 ./Go.sh
 ```
-📸 Preview
+
+
 
 
 Made with ❤️ by Kartik Garg
